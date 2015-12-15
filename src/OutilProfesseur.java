@@ -1,4 +1,6 @@
 
 public class OutilProfesseur {
-	double q;
+	void main (String args[]){
+		
+	}
 }
