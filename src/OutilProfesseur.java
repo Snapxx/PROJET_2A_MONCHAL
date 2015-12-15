@@ -1,4 +1,4 @@
 
 public class OutilProfesseur {
-	int q;
+	double q;
 }
