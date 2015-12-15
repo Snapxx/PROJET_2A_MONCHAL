@@ -1,4 +1,4 @@
 
 public class OutilProfesseur {
-	double q;
+	double test;
 }
